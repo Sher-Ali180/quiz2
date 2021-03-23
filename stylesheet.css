@@ -1,0 +1,10 @@
+.red{
+    border-radius: 3px;
+    box-sizing: border-box;
+    border-color: red;
+    font-weight: bold;
+    
+}
+.rem{
+    color: white;
+}
